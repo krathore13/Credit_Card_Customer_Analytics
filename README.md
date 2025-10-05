@@ -1,30 +1,7 @@
-# Credit_Card_Customer_Analytics
-
 # 💳 Credit Card Customer Analytics — SQL Project
 
 Analyze customer credit card spending, utilization, delinquency, and profitability using **SQL**.  
 This project demonstrates data cleaning, aggregation, and advanced analytics techniques with business insights — perfect for your SQL portfolio.
-
----
-
-📦 credit_card_customer_analytics
-│
-├── 📁 data
-│ └── customer_transactions.csv
-│
-├── 📁 sql
-│ ├── 01_create_table.sql
-│ ├── 02_data_cleaning.sql
-│ ├── 03_easy_queries.sql
-│ ├── 04_medium_queries.sql
-│ └── 05_hard_queries.sql
-│
-├── 📁 outputs
-│ └── query_results.xlsx
-│
-├── README.md
-
-## 📚 Table of Contents
 
 ## 📚 Table of Contents
 
@@ -35,11 +12,8 @@ This project demonstrates data cleaning, aggregation, and advanced analytics tec
    - [Step 3: Data Analysis & Insights](#-step-3-data-analysis--insights)
 3. [Key Findings](#-key-findings)
 4. [Tools & Technologies](#-tools--technologies)
-5. [How to Run](#-how-to-run)
-6. [Author](#-author)
 
 
----
 
 # 💳 Credit Card Customer Analytics using SQL
 
